@@ -18,3 +18,4 @@ http://localhost:8091/
 * Git (Github)
 
 ## Run
+mvn package && java -jar target/bellisimo-payment-service-0.0.1-SNAPSHOT.jar
